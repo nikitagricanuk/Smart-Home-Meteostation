@@ -2,7 +2,7 @@
 #include <TroykaMQ.h>
 #include <Ethernet.h>
 #include <ArduinoJson.h>
-#include <SHT21.h>  // include SHT21 library
+#include <SHT21.h>  
 #include <SoftwareSerial.h> // подключение библиотеки для работы с Software Serial 
 #include <Nextion.h>
 //#include  <Servo.h>  // библиотека для сервомоторов
