@@ -5,7 +5,6 @@
 #include <SHT21.h>  
 #include <SoftwareSerial.h> // подключение библиотеки для работы с Software Serial 
 #include <Nextion.h>
-//#include  <Servo.h>  // библиотека для сервомоторов
 #include <Wire.h>  // библиотека для протокола I2C
 #include <SPI.h>  // Библиотека для работы с шиной SPI
 #include <Adafruit_BMP280.h> // Библиотека для работы с датчиком BMP280
